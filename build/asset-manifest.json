@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c1f1743.css",
+    "main.js": "/static/js/main.252922b7.js",
+    "static/media/AdsManagement.jpg": "/static/media/AdsManagement.90765d08c56e7a7e19c3.jpg",
+    "static/media/home.png": "/static/media/home.9cc7762909dc46808950.png",
+    "static/media/graphic-cartoon-character-cyber-security-vector-35150857.jpg": "/static/media/graphic-cartoon-character-cyber-security-vector-35150857.b07676aded2669396686.jpg",
+    "static/media/help.jpg": "/static/media/help.fcfee544d57ded5e5b21.jpg",
+    "static/media/user_preview.jpg": "/static/media/user_preview.e86d4e235c4d524ba7b4.jpg",
+    "static/media/hand.png": "/static/media/hand.2cd2761bac7be17dad52.png",
+    "static/media/identity.jpg": "/static/media/identity.80bc1ca888a23ef97a32.jpg",
+    "static/media/imae02.png": "/static/media/imae02.686e238de5489c074ba3.png",
+    "static/media/background.jpg": "/static/media/background.57a9361689e81814e261.jpg",
+    "static/media/image00.png": "/static/media/image00.7e4441d5b4a86b371e13.png",
+    "static/media/utilisateur.png": "/static/media/utilisateur.0ed8758ce0c4c98cf82e.png",
+    "static/media/sendIcon.png": "/static/media/sendIcon.097226f479e6e5315a16.png",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.7c1f1743.css.map": "/static/css/main.7c1f1743.css.map",
+    "main.252922b7.js.map": "/static/js/main.252922b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c1f1743.css",
+    "static/js/main.252922b7.js"
+  ]
+}
